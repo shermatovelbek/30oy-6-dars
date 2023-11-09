@@ -45,4 +45,14 @@ uL {
   flex-shrink: 0;
   border-radius: 100px;
   border: 1px solid #4e3c31;
+  transition: all 0.5s;
+}
+.header__container button:hover {
+  background: black;
+  color: white;
+}
+.header__container > img {
+  width: 881px;
+  height: 617px;
+  flex-shrink: 0;
 }/*# sourceMappingURL=main.css.map */
