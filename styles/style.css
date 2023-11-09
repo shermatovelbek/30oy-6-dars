@@ -1,0 +1,16 @@
+/* desktop first */
+body{
+    background-color: aquamarine;
+}
+
+@media screen and (max-width:2000px) {
+    body{
+        background-color: red;
+    }
+}
+
+@media screen and (max-width:1500px) {
+    body{
+        background-color:blue;
+    }
+}
